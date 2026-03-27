@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Data files (too large for GitHub)
+data/raw/
+data/processed/*.csv
+*.csv
+
+# Model binaries
+*.pkl
+*.h5
+*.joblib
+
+# Large outputs
+outputs/plots/*.png
+outputs/plots/*.jpg

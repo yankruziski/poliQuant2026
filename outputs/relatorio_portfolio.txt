@@ -1,0 +1,38 @@
+============================================================
+RELATORIO DE PORTFOLIO - POLIQUANT 2026
+============================================================
+
+Periodo: 2015-01-02 a 2025-12-30
+Dias de operacao: 2729
+Rebalanceamentos: 132
+Top N ativos: 30
+Max peso por ativo: 10%
+Monte Carlo: 5000 sims, 21 dias, CVaR 5%
+
+METRICAS
+------------------------------------------------------------
+          Ret Total Ret Anual Vol Anual Sharpe Max Drawdown Calmar Win Rate
+Nome                                                                       
+Portfolio   183.55%    10.10%    14.05%  0.029      -30.18%  0.335   53.61%
+IBOV        138.17%     8.34%    23.48%  0.025      -50.24%  0.166   52.11%
+
+Retorno acumulado Portfolio: 2.8355x
+Retorno acumulado IBOV:      2.3817x
+
+ULTIMO REBALANCEAMENTO
+------------------------------------------------------------
+  PINE4      9.99%
+  RYTT34     9.91%
+  IBMB34     9.62%
+  TIMS3      9.53%
+  GEOO34     9.41%
+  PINE3      9.13%
+  AXIA6      8.91%
+  COCE5      6.72%
+  PATI4      5.57%
+  AXIA3      4.63%
+  UNIP5      3.70%
+  FMXB34     3.54%
+  BBDC4      2.37%
+  SBSP3      1.63%
+  MSFT34     1.57%

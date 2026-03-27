@@ -1,0 +1,6 @@
+Quantidade inicial de ativos: 1368
+Quantidade final de ativos: 471
+Ativos removidos por historico curto: 857
+Percentual medio de NaN antes: 48.11%
+Percentual medio de NaN depois: 8.46%
+Total de outliers detectados: 2098
