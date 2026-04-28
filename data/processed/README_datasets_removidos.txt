@@ -8,8 +8,6 @@ Descrição dos arquivos removidos por tamanho:
 - É uma versão enriquecida do master_dataset_ml.csv, incluindo colunas adicionais como o regime de mercado (detectado pelo HMM) e targets binários (ex: se o ativo subiu ou caiu no dia seguinte). Esse arquivo é usado para treinar modelos que consideram também o contexto de regime de mercado.
 - É gerado pelo script hmm_regimes.py e utilizado como entrada principal para o script 03_xgb_prediction.py, que treina o modelo XGBoost.
 
-Motivo da remoção:
-
 3. precos_limpos_ffill.csv
 - Preços ajustados dos ativos e IBOV, após limpeza, preenchimento de gaps e remoção de penny stocks. Gerado por limpeza_dados.py. Usado como base para cálculo de retornos e features.
 
